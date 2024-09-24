@@ -1,0 +1,2 @@
+# Nmap 7.95SVN scan initiated Tue Aug 27 11:03:17 2024 as: nmap -sT -p 3306 -oG MySqlscan 172.16.105.0/24
+# Nmap done at Tue Aug 27 11:03:17 2024 -- 0 IP addresses (0 hosts up) scanned in 0.04 seconds

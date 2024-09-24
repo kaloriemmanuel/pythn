@@ -1,0 +1,8 @@
+#! /bin/bash
+#I AM A HACKER
+echo "Kill all Processes"
+echo "What is your Name?"
+read name
+echo $name"What Chapter are you in Linux Basics for Hackers?"
+read chapter
+echo "Welcome "$name"to chapter "$chapter" of Basic Linux for Hackers"
